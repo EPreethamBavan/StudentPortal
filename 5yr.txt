@@ -1,0 +1,7 @@
+Course::Integrated M.Sc/B.E(Sandwich)
+Duration of course::5 years
+Tution Fee::1
+Examination Fee::1
+Library Fee::0.5
+Computer Fee::0.5
+Total::3

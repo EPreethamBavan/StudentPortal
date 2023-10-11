@@ -1,0 +1,9 @@
+		POSTED LEAVE PRINTOUT:
+ROLL NO::21pc22
+NAME::Preetham
+PROGRAMME::Integrated M.Sc
+SEMESTER::2
+LEAVE TYPE::exemption
+TYPE OF EXEMPTION::sports
+DAY TYPE::full day
+DATE::1/2/2022

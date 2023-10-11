@@ -1,0 +1,6 @@
+Course::B.E/B.Tech
+Duration of course::4 years
+Tution Fee::3200
+Examination Fee::4500
+Library Fee::7000
+Computer Fee::5600

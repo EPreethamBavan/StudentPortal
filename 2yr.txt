@@ -1,0 +1,7 @@
+Course::M.E/M.Tech/M.Sc(2 year)
+Duration of course::2 years
+Tution Fee::1
+Examination Fee::2
+Library Fee::3
+Computer Fee::4
+Total::10

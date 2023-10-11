@@ -1,0 +1,6 @@
+Course::B.Sc
+Tution Fee::123
+Examination Fee::123
+Library Fee::123
+Computer Fee::123
+Total::492
