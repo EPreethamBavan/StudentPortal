@@ -1,0 +1,1 @@
+Student Portal: a project developed in C++ which provides an interactive interface for calculating the Grade Point Average and the Cumulative Grade Point Average of students, posting leave, and accessing the fee structure for the various courses in our college.
